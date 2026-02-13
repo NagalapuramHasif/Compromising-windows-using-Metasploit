@@ -84,6 +84,7 @@ The file "fun.exe" downloads.
 Bypass any warning boxes, double-click the file, and allow it to run.
 
 On kali give the command exploit
+<img width="640" height="152" alt="image" src="https://github.com/user-attachments/assets/a53d560c-5796-4d48-97ba-b34a0258814f" />
 
 
 To see a list of processes, at the meterpreter > prompt, execute this command:
@@ -100,6 +101,7 @@ netstat
 A list of network connections appears, including one to a remote port of 4444, as highlighted in the image below.
 Notice the "PID/Program name" value for this connection, which is redacted 
 
+![240486096-b2d36ca1-64a2-4863-a648-4ef4a8727dd9](https://github.com/Yogeshvar005/Compromising-windows-using-Metasploit/assets/113497367/c379f00d-1be8-4a25-8342-25ff9208cb8d)
 
 
 Post Exploitation
